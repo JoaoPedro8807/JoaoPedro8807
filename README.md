@@ -4,18 +4,16 @@
 
 💼 Atualmente curso Banco de Dados na Faculdade de técnologia de Bauru (FATEC).
 
-🌱  No momento presente, estou trabalhando em projetos  que abrangem desde aplicativos da web até soluções de backend
+🌱  Desenvolvo projetos que abrangem desde aplicativos da web backend com Python, mas também me arrisco um pouco no front-end.
 
-🚀 Estou sempre aberto a colaborações e contribuições, então sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma ideia para me ajudar!
+🚀 Estou sempre aberto a colaborações e contribuições, então sinta-se à vontade para explorar meus repositórios e entrar em contato.
 
-📫 Você pode me encontrar também no LinkedIn para conectar e discutir oportunidades de colaboração.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
 </div>
 
