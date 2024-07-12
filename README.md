@@ -4,7 +4,7 @@
 
 💼 Atualmente curso Banco de Dados na Faculdade de técnologia de Bauru (FATEC).
 
-🌱  Desenvolvo projetos que abrangem desde aplicativos da web backend com Python, mas também me arrisco um pouco no front-end.
+🌱  Desenvolvo projetos que abrangem aplicativos web backend com Python, mas também me arrisco um pouco no front-end.
 
 🚀 Estou sempre aberto a colaborações e contribuições, então sinta-se à vontade para explorar meus repositórios e entrar em contato.
 
