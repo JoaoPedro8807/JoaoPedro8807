@@ -1,6 +1,6 @@
 
 
-👋 Olá! Eu sou João Pedro, um desenvolvedor iniciante e muito apaixonado por aprender e explorar o mundo da tecnologia.
+👋 Olá! Eu sou João Pedro, um desenvolvedor muito apaixonado por aprender e explorar o mundo da tecnologia.
 
 💼 Atualmente curso Banco de Dados na Faculdade de técnologia de Bauru (FATEC).
 
