@@ -22,7 +22,8 @@
   - 🌐 **Front-end:**  
     JavaScript, HTML, CSS, Htmx, Bootstrap  
   
-  - 🗄️ **Banco de Dados:**
+  - 🗄️ **Banco de Dados**
+
     PostgreSQL, Redis, Oracle, MySQL, SQLite  
   
   - ☁️ **Plataformas de Nuvem:**   
