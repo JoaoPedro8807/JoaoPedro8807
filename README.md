@@ -13,22 +13,22 @@
 🚀 Estou sempre aberto a colaborações e contribuições, então sinta-se à vontade para explorar meus repositórios e entrar em contato.
 
 ### Tecnologias que utilizo:
-  - **Linguagens de Programação: **  💻  
+  - 💻 **Linguagens de Programação:**    
     Python, Node.js  
   
-  - **Frameworks: ** ⚙️ 
+  - ⚙️ **Frameworks**  
     Django, Flask, React  
   
-  - **Front-end: ** 🌐 
+  - 🌐 **Front-end:**  
     JavaScript, HTML, CSS, Htmx, Bootstrap  
   
-  - **Banco de Dados:** 🗄️
+  - 🗄️ **Banco de Dados:** 
     PostgreSQL, Redis, Oracle, MySQL, SQLite  
   
-  - **Plataformas de Nuvem:** ☁️  
+  - ☁️ **Plataformas de Nuvem:**   
     Azure, Google Cloud Platform (GCP), CI/CD  
   
-  - **Ferramentas/Versionamento:** 🔧  
+  - 🔧 **Ferramentas/Versionamento:**   
     Git/GitHub, Docker, CI/CD, GitHub Actions 
   
 
