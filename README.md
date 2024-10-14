@@ -27,7 +27,7 @@
     PostgreSQL, Redis, Oracle, MySQL, SQLite  
   
   - ☁️ **Plataformas de Nuvem:**   
-    Azure, Google Cloud Platform (GCP), CI/CD  
+    Azure, Google Cloud Platform (GCP)
   
   - 🔧 **Ferramentas/Versionamento:**   
     Git/GitHub, Docker, CI/CD, GitHub Actions 
