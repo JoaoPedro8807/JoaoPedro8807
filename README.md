@@ -12,6 +12,8 @@
 
 🚀 Estou sempre aberto a colaborações e contribuições, então sinta-se à vontade para explorar meus repositórios e entrar em contato.
 
+
+
 ### Tecnologias que utilizo:
   - 💻 **Linguagens de Programação:**    
     Python, Node.js  
