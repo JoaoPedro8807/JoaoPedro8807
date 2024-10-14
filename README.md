@@ -25,8 +25,8 @@
     JavaScript, HTML, CSS, Htmx, Bootstrap  
   
   - 🗄️ **Banco de Dados:**
-    PostgreSQL, Redis, Oracle, MySQL, SQLite  
-  
+    PostgreSQL, Oracle, Mysql, SQLite, Redis e MongoDB
+    
   - ☁️ **Plataformas de Nuvem:**   
     Azure, Google Cloud Platform (GCP)
   
