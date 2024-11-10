@@ -4,7 +4,7 @@ Desenvolvedor muito apaixonado por aprender e explorar o mundo da tecnologia.
 
 Atualmente cursando 5º semestre do Curso superior em Banco de Dados (CST) na Faculdade de técnologia de Bauru (FATEC).
 
-Desenvolvo projetos que abrangem aplicação no backend com Python e front-end com React.js, Javascript, HTML e CSS.
+Desenvolvo projetos que abrangem aplicação no backend com Python, Django, Flask, e front-end com React.js, Javascript, HTML e CSS.
 
 ### "Seu tempo é limitado, não o gaste vivendo a vida de outra pessoa. Não fique preso aos dogmas, que é viver do que as outras pessoas pensam"
 
