@@ -1,8 +1,6 @@
 # FullStack Developer - Python & Javascript ❤️
 
-Desenvolvedor muito apaixonado por aprender e explorar o mundo da tecnologia.
-
-Atualmente cursando 6º semestre do Curso superior em Banco de Dados (CST) na Faculdade de técnologia de Bauru (FATEC).
+Formado no Curso superior em Banco de Dados (CST) na Faculdade de técnologia de Bauru (FATEC), sou um desenvolvedor muito apaixonado por aprender e explorar o mundo da tecnologia.
 
 Desenvolvo projetos que abrangem aplicação no backend com Python, Django, Flask, e front-end com React.js, Javascript, HTML e CSS.
 
