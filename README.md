@@ -1,10 +1,9 @@
-# FullStack Developer - Python & Javascript ❤️
+# FullStack Developer - Python, Java & Javascript ❤️
 
 Formado no Curso superior em Banco de Dados (CST) na Faculdade de técnologia de Bauru (FATEC), sou um desenvolvedor muito apaixonado por aprender e explorar o mundo da tecnologia.
 
-Desenvolvo projetos que abrangem aplicação no backend com Python, Django, Flask, e front-end com React.js, Javascript, HTML e CSS.
+Desenvolvo projetos que abrangem aplicação no backend com Python e Java, até front-end com JavaScript. 
 
-### "Seu tempo é limitado, não o gaste vivendo a vida de outra pessoa. Não fique preso aos dogmas, que é viver do que as outras pessoas pensam".
 
 [![Twitter Badge](https://img.shields.io/badge/-@joaopedro-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://joaopedrogomes.vercel.app/)](https://joaopedrogomes.vercel.app/) 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Pedro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedro-gs/)](https://www.linkedin.com/in/joaopedro-gs/) 
