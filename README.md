@@ -2,7 +2,7 @@
 
 Formado no Curso superior em Banco de Dados (CST) na Faculdade de técnologia de Bauru (FATEC), sou um desenvolvedor muito apaixonado por aprender e explorar o mundo da tecnologia.
 
-Desenvolvo projetos que abrangem aplicação no backend com Python e Java, até front-end com JavaScript. 
+Desenvolvo projetos backend com Python e Java, até front-end com JavaScript. 
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@joaopedro-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://joaopedrogomes.vercel.app/)](https://joaopedrogomes.vercel.app/) 
